@@ -1,4 +1,4 @@
-# Traffic prediction across individual and mass transit system using GNN
+# Traffic prediction across multi-modal transportation modes using GNN
 
 Date: 22/06/2022 </br>
 Author: Mathis Konarski </br>
