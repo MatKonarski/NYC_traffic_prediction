@@ -12,3 +12,5 @@ The objectives are:
   - To implement an efficient Machine Learning prediction of traffic volume demand
   - To evaluate the efficiency of using a GNN 
   - To use multi modal informations in order to improve the prediction for each mode
+
+Datasets can be found on https://ride.citibikenyc.com/system-data and https://www1.nyc.gov/site/tlc/about/tlc-trip-recorddata.page
