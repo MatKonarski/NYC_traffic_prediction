@@ -1,7 +1,7 @@
 # Traffic prediction across individual and mass transit system using GNN
 
 Date: 22/06/2022 </br>
-Author: Mathis Konarski
+Author: Mathis Konarski </br>
 Supervisor: Ilya Makarov
 
 This repository contains the main content of my 2022 HSE coursework.
